@@ -1,0 +1,15 @@
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.csproj.AssemblyReference.cache
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.AssemblyInfoInputs.cache
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.AssemblyInfo.cs
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\bin\Debug\net6.0\InternetServiceProvider.exe
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\bin\Debug\net6.0\InternetServiceProvider.deps.json
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\bin\Debug\net6.0\InternetServiceProvider.runtimeconfig.json
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\bin\Debug\net6.0\InternetServiceProvider.dll
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\bin\Debug\net6.0\InternetServiceProvider.pdb
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.dll
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\refint\InternetServiceProvider.dll
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.pdb
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\InternetServiceProvider.genruntimeconfig.cache
+C:\Users\AnimeshDas\source\repos\InternetServiceProvider\obj\Debug\net6.0\ref\InternetServiceProvider.dll
